@@ -1,0 +1,39 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.center {
+  position: absolute;
+  top: 30%;
+  left: 25%;
+  background-color: rgb(196, 243, 241);
+  height: 50%;
+  width: 50%;
+  text-align: center;
+}
+
+.counter {
+  font-size: 3rem;
+}
+
+.number {
+  font-size: 4rem;
+}
+
+.decrease,
+.increase {
+  font-size: 0.8rem;
+  font-weight: bold;
+  height: 30px;
+  width: 70px;
+  margin: 5px;
+}
+
+.reset {
+  font-size: 0.8rem;
+  font-weight: bold;
+  height: 30px;
+  width: 60px;
+  margin: 5px;
+}
